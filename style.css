@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-  --bg-color: #222831;
-  --primary-color: #DDDDDD;
-  --secundary-color: #6341b4;
-  --font: Grandstander;
+  --bg-color: #dcdddf;
+  --primary-color: #8a5858;
+  --secundary-color: #921f55;
+  --font: Outfit;
 }
 
 body {
